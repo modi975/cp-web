@@ -1,7 +1,7 @@
 ---
 declared-services:
   cpblockchain:
-    label: ibm-blockchain-5-prod
+    label: amitabh-blockchain
     plan: ibm-blockchain-plan-v1-ga1-starter-prod
 applications:
 - disk_quota: 1024M
